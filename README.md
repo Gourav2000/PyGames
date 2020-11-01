@@ -1,2 +1,2 @@
 # Pygames
-simple python app for PyGames
+Mini games made with Python
